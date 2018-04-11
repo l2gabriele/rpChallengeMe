@@ -1,0 +1,63 @@
+{
+    "classes": [{
+        "classId": 1,
+        "mask": 1,
+        "powerType": "Rage",
+        "className": "Warrior"
+    }, {
+        "classId": 2,
+        "mask": 2,
+        "powerType": "Mana",
+        "className": "Paladin"
+    }, {
+        "classId": 3,
+        "mask": 4,
+        "powerType": "Focus",
+        "className": "Hunter"
+    }, {
+        "classId": 4,
+        "mask": 8,
+        "powerType": "Energy",
+        "className": "Rogue"
+    }, {
+        "classId": 5,
+        "mask": 16,
+        "powerType": "Mana",
+        "className": "Priest"
+    }, {
+        "classId": 6,
+        "mask": 32,
+        "powerType": "Runic-power",
+        "className": "Death Knight"
+    }, {
+        "classId": 7,
+        "mask": 64,
+        "powerType": "Mana",
+        "className": "Shaman"
+    }, {
+        "classId": 8,
+        "mask": 128,
+        "powerType": "Mana",
+        "className": "Mage"
+    }, {
+        "classId": 9,
+        "mask": 256,
+        "powerType": "Mana",
+        "className": "Warlock"
+    }, {
+        "classId": 10,
+        "mask": 512,
+        "powerType": "Energy",
+        "className": "Monk"
+    }, {
+        "classId": 11,
+        "mask": 1024,
+        "powerType": "Mana",
+        "className": "Druid"
+    }, {
+        "classId": 12,
+        "mask": 2048,
+        "powerType": "Fury",
+        "className": "Demon Hunter"
+    }]
+}

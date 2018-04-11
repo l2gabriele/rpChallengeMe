@@ -1,0 +1,519 @@
+{
+    "zones": [{
+        "zoneId": 1,
+        "mask": 1,
+        "territory": "Contested",
+        "continent": "Broken Isles",
+        "zoneName": "Azuna",
+    }, {
+        "zoneId": 2,
+        "mask": 2,
+        "territory": "Contested",
+        "continent": "Broken Isles",
+        "zoneName": "Val'Sharash"
+    }, {
+        "zoneId": 3,
+        "mask": 4,
+        "territory": "Contested",
+        "continent": "Broken Isles",
+        "zoneName": "Highmountain"
+    }, {
+        "zoneId": 4,
+        "mask": 8,
+        "territory": "Contested",
+        "continent": "Broken Isles",
+        "zoneName": "Stormheim"
+    }, {
+        "zoneId": 5,
+        "mask": 16,
+        "territory": "Contested",
+        "continent": "Broken Isles",
+        "zoneName": "Suramar"
+    }, {
+        "zoneId": 6,
+        "mask": 32,
+        "territory": "Contested",
+        "continent": "Broken Isles",
+        "zoneName": "The Broken Shore"
+    }, {
+        "zoneId": 7,
+        "mask": 64,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Frostfire Ridge"
+    }, {
+        "zoneId": 8,
+        "mask": 128,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Gorgrond"
+    }, {
+        "zoneId": 9,
+        "mask": 256,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Tanaan Jungle"
+    }, {
+        "zoneId": 10,
+        "mask": 512,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Shadowmoon Valley"
+    }, {
+        "zoneId": 11,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Spires Of Arak"
+    }, {
+        "zoneId": 12,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Talador"
+    }, {
+        "zoneId": 13,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Nagrand"
+    }, {
+        "zoneId": 14,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Draenor",
+        "zoneName": "Ashran"
+    }, {
+        "zoneId": 15,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Pandaria",
+        "zoneName": "Townlong Steppes"
+    }, {
+        "zoneId": 16,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Pandaria",
+        "zoneName": "Dread Wastes"
+    }, {
+        "zoneId": 17,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Pandaria",
+        "zoneName": "Krasarang Wilds"
+    }, {
+        "zoneId": 18,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Pandaria",
+        "zoneName": "Valley of the Four Winds"
+    }, {
+        "zoneId": 19,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Pandaria",
+        "zoneName": "Vale of Eternal Blossoms"
+    }, {
+        "zoneId": 20,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Pandaria",
+        "zoneName": "Kun-Lai Summit"
+    }, {
+        "zoneId": 21,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Pandaria",
+        "zoneName": "The Jade Forest"
+    }, {
+        "zoneId": 22,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Borean Tundra"
+    }, {
+        "zoneId": 23,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Sholazar Basin"
+    }, {
+        "zoneId": 24,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Icecrown"
+    }, {
+        "zoneId": 25,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Storm Peaks"
+    }, {
+        "zoneId": 26,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Zul'Drak"
+    }, {
+        "zoneId": 27,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Grizzly Hills"
+    }, {
+        "zoneId": 28,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Howling Fjord"
+    }, {
+        "zoneId": 29,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Dragonblight"
+    }, {
+        "zoneId": 30,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Crystalsong Forest"
+    }, {
+        "zoneId": 31,
+        "mask": 2048,
+        "territory": "Contested",
+        "continent": "Northrend",
+        "zoneName": "Wintergrasp"
+    }, {
+        "zoneId": 32,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Outland",
+        "zoneName": "Nagrand"
+    }, {
+        "zoneId": 33,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Outland",
+        "zoneName": "Blade's Edge Moutain"
+    }, {
+        "zoneId": 34,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Outland",
+        "zoneName": "Netherstorm"
+    }, {
+        "zoneId": 35,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Outland",
+        "zoneName": "Zangarmarsh"
+    }, {
+        "zoneId": 36,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Outland",
+        "zoneName": "Hellfire Peninsula"
+    }, {
+        "zoneId": 37,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Outland",
+        "zoneName": "Terokkar Forest"
+    }, {
+        "zoneId": 38,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Outland",
+        "zoneName": "Shadowmoon Valley"
+    }, {
+        "zoneId": 39,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Twilight Highlands"
+    }, {
+        "zoneId": 40,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Vashj'ir"
+    }, {
+        "zoneId": 41,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Eversong Woods"
+    }, {
+        "zoneId": 42,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Ghostlands"
+    }, {
+        "zoneId": 43,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Eastern Plaguelands"
+    }, {
+        "zoneId": 44,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Western Plaguelands"
+    }, {
+        "zoneId": 45,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Tirisfal Glades"
+    }, {
+        "zoneId": 46,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Silverpine Forest"
+    }, {
+        "zoneId": 47,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Hillsbrad Foothills"
+    }, {
+        "zoneId": 48,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Gilneas"
+    }, {
+        "zoneId": 49,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "The Hinterlands"
+    }, {
+        "zoneId": 50,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Arathi Highlands"
+    }, {
+        "zoneId": 51,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Wetlands"
+    }, {
+        "zoneId": 52,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Loch Modan"
+    }, {
+        "zoneId": 53,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Badlands"
+    }, {
+        "zoneId": 54,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Burning Steppes"
+    }, {
+        "zoneId": 55,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Redridge Mountains"
+    } {
+        "zoneId": 56,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Swamp of Sorrows"
+    }, {
+        "zoneId": 57,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Blasted Lands"
+    }, {
+        "zoneId": 58,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "The Cape of Stranglethorn"
+    }, {
+        "zoneId": 59,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Northern Stranglethorn"
+    }, {
+        "zoneId": 60,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Duskwood"
+    }, {
+        "zoneId": 61,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Westfall"
+    }, {
+        "zoneId": 62,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Elwynn Forest"
+    }, {
+        "zoneId": 63,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Searing Gorge"
+    }, {
+        "zoneId": 64,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Eastern Kingdoms",
+        "zoneName": "Dun Morogh"
+    }, {
+        "zoneId": 65,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Winterspring"
+    }, {
+        "zoneId": 66,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Kalimdor",
+        "zoneName": "Teldrassil"
+    }, {
+        "zoneId": 67,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Kalimdor",
+        "zoneName": "Darkshore"
+    }, {
+        "zoneId": 68,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Kalimdor",
+        "zoneName": "Bloodmyst Isle"
+    }, {
+        "zoneId": 69,
+        "mask": 1024,
+        "territory": "Alliance",
+        "continent": "Kalimdor",
+        "zoneName": "Azuremyst Isle"
+    }, {
+        "zoneId": 70,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Felwood"
+    }, {
+        "zoneId": 71,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Mount Hyjal"
+    }, {
+        "zoneId": 72,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Kalimdor",
+        "zoneName": "Azshara"
+    }, {
+        "zoneId": 73,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Ashenvale"
+    }, {
+        "zoneId": 74,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Stonetalon Mountains"
+    }, {
+        "zoneId": 75,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Kalimdor",
+        "zoneName": "Northern Barrens"
+    }, {
+        "zoneId": 76,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Kalimdor",
+        "zoneName": "Durotar"
+    }, {
+        "zoneId": 77,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Southern Barrens"
+    }, {
+        "zoneId": 78,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Dustwallow Marsh"
+    }, {
+        "zoneId": 79,
+        "mask": 1024,
+        "territory": "Horde",
+        "continent": "Kalimdor",
+        "zoneName": "Mulgore"
+    }, {
+        "zoneId": 80,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Thousand Needles"
+    }, {
+        "zoneId": 81,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Tanaris"
+    }, {
+        "zoneId": 82,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Un'Goro Crater"
+    }, {
+        "zoneId": 83,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Silithus"
+    }, {
+        "zoneId": 84,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Uldum"
+    }, {
+        "zoneId": 85,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Feralas"
+    }, {
+        "zoneId": 86,
+        "mask": 1024,
+        "territory": "Contested",
+        "continent": "Kalimdor",
+        "zoneName": "Desolace"
+    }]
+}

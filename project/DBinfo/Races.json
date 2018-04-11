@@ -1,0 +1,93 @@
+{
+    "races": [{
+        "raceId": 1,
+        "mask": 1,
+        "faction": "Alliance",
+        "raceName": "Human"
+    }, {
+        "raceId": 2,
+        "mask": 2,
+        "faction": "Horde",
+        "raceName": "Orc"
+    }, {
+        "raceId": 3,
+        "mask": 4,
+        "faction": "Alliance",
+        "raceName": "Dwarf"
+    }, {
+        "raceId": 4,
+        "mask": 8,
+        "faction": "Alliance",
+        "raceName": "Night Elf"
+    }, {
+        "raceId": 5,
+        "mask": 16,
+        "faction": "Horde",
+        "raceName": "Undead"
+    }, {
+        "raceId": 6,
+        "mask": 32,
+        "faction": "Horde",
+        "raceName": "Tauren"
+    }, {
+        "raceId": 7,
+        "mask": 64,
+        "faction": "Alliance",
+        "raceName": "Gnome"
+    }, {
+        "raceId": 8,
+        "mask": 128,
+        "faction": "Horde",
+        "raceName": "Troll"
+    }, {
+        "raceId": 9,
+        "mask": 256,
+        "faction": "Horde",
+        "raceName": "Goblin"
+    }, {
+        "raceId": 10,
+        "mask": 512,
+        "faction": "Horde",
+        "raceName": "Blood Elf"
+    }, {
+        "raceId": 11,
+        "mask": 1024,
+        "faction": "Alliance",
+        "raceName": "Draenei"
+    }, {
+        "raceId": 22,
+        "mask": 2097152,
+        "faction": "Alliance",
+        "raceName": "Worgen"
+    }, {
+        "raceId": 25,
+        "mask": 16777216,
+        "faction": "Alliance",
+        "raceName": "Pandaren"
+    }, {
+        "raceId": 26,
+        "mask": 33554432,
+        "faction": "Horde",
+        "raceName": "Pandaren"
+    }, {
+        "raceId": 27,
+        "mask": 67108864,
+        "faction": "Horde",
+        "raceName": "Nightborne"
+    }, {
+        "raceId": 28,
+        "mask": 134217728,
+        "faction": "Horde",
+        "raceName": "Highmountain Tauren"
+    }, {
+        "raceId": 29,
+        "mask": 268435456,
+        "faction": "Alliance",
+        "raceName": "VoraceId Elf"
+    }, {
+        "raceId": 30,
+        "mask": 536870912,
+        "faction": "Alliance",
+        "raceName": "Lightforged Draenei"
+    }]
+}
