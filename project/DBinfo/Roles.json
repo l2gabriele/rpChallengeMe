@@ -1,0 +1,13 @@
+{
+    "roles": [{
+        "roleID": 1,
+        "role": "DPS"
+    },{
+        "roleID": 2,
+        "role": "Healer"
+    },{
+        "roleId": 3,
+        "role": "Tank"
+    }
+]
+}

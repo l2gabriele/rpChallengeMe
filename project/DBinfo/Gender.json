@@ -1,0 +1,9 @@
+{
+    "gender" : [{
+        "genderId": 1,
+        "sex": "female"
+    },{
+        "genderId": 2,
+        "sex": "male"
+    }
+]}
